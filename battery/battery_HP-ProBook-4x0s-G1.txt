@@ -9,6 +9,7 @@
 # Works for:
 #  HP ProBook 4x0s G1, others
 #  HP ProBook 4x0s G2, others
+#  HP EliteBook Revolve 810 G1
 
 # syntax fix
 
